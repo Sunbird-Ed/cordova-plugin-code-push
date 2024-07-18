@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Cordova support is retired in App Center
 Check our [blog post](https://devblogs.microsoft.com/appcenter/announcing-apache-cordova-retirement/) for more information.
 
